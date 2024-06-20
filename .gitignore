@@ -9,6 +9,7 @@ appsettings.json
 appsettings.Development.json
 APICatalogo.csproj
 APICatalogo.http
+Migrations/
 
 # User-specific files
 *.rsuser
@@ -369,3 +370,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/APICatalogo.csproj
